@@ -1,7 +1,26 @@
 # Vue 3 + Vite
+## 简介
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+一个简单的后台管理页面
 
-## Recommended IDE Setup
+vue3 + vite + vue-router4 + vuex + axios + elementui-plus
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+实现了 动态路由
+
+使用 vite 代理解决 跨域问题  vite版本2.9.0  详细配置见(vite.config.js)
+
+## 效果图
+
+![image-20220414140742453](README.assets/image-20220414140742453.png)
+
+![image-20220414140408272](README.assets/image-20220414140408272.png)
+
+![image-20220414140318558](README.assets/image-20220414140318558.png)
+
+## 参考文档
+
+vite官方文档 https://vitejs.cn/
+
+vue-router https://router.vuejs.org/zh/
+
+elementui-plus https://element-plus.gitee.io/zh-CN/#/zh-CN/component/installation
